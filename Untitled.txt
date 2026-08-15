@@ -1,3 +1,1 @@
-vless://0a178a7f-b969-45ae-a4c0-479d033f1f8e@us.samanehha.io:800?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=us.samanehha.io&mode=stream-one&security=none#%F0%9F%87%BA%F0%9F%87%B8%20USA‍‍‍‍
-vless://4db513f4-4589-405d-b704-268ed5009dde@170.39.216.98:1005?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=www.samanehha.io&mode=stream-one&security=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine‍‍‍‍
-vless://fb6ec983-c031-4d5a-8162-9d87e8831b9c@170.39.216.98:1102?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=www.samanehha.io&mode=stream-one&security=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden‍‍‍‍
+vless://3d320f00-e8b0-47e8-bb98-edcdbedb1a56@170.39.216.98:1005?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=www.samanehha.io&mode=stream-one&security=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine‍‍‍‍
