@@ -1,4 +1,4 @@
-vless://63f3f4f7-5282-4590-9502-91077c7b8fe1@tr.koomeh.net:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey‍‍‍‍
-vless://1d2516b0-e26b-4426-afa3-cb337fb6ca3d@tr.koomeh.net:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey‍‍‍‍
-vless://a92b44cb-5751-43c8-9109-33440b48fa2d@tr.koomeh.net:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey‍‍‍‍
-vless://1e47d4e8-c811-41f5-8b80-e7ada31e3930@170.39.216.98:1005?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=www.samanehha.io&mode=stream-one&security=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine‍‍‍‍
+vless://f4699d44-f8ea-4add-974a-465313430176@tr.koomeh.net:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey‍‍‍‍
+vless://cf5eff9d-ab3c-49c7-a80e-83b39f3884f5@tr.koomeh.net:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=stream-one&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey‍‍‍‍
+vless://1fe22d3b-e2a6-49f4-960e-7cd04bcee7b5@170.39.216.98:1005?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=www.samanehha.io&mode=stream-one&security=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine‍‍‍‍
+vless://fa2f38c2-efef-4915-b49e-cede70f8b036@192.71.82.2:8443?encryption=none&type=xhttp&path=%2Fdl-assets&host=dl.eloctroforce.com&mode=stream-up&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22firefox%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&security=tls&sni=dl.eloctroforce.com&fp=chrome&alpn=h2#%F0%9F%87%B3%F0%9F%87%B1%20NL%E2%98%81%EF%B8%8F‍‍‍‍
